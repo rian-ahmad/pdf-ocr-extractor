@@ -39,6 +39,7 @@ python your_main_script_name.py
 - File JSON yang berisi konten terstruktur dan gambar yang diekstrak akan tersimpan di sana.
 
 ## Contoh Output JSON
+Berikut adalah contoh struktur data JSON yang dihasilkan. Perhatikan bagaimana setiap blok konten memiliki metadata `page_number` untuk konteks halaman, yang penting untuk RAG.
 ``` JSON
 [
   {
