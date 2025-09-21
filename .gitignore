@@ -1,0 +1,8 @@
+# `.gitignore` file
+config.py
+ekstrak.log
+ekstrak.log.1
+output/
+__pycache__/
+*.pyc
+.DS_Store
